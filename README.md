@@ -19,14 +19,25 @@ Projeto de front-end desenvolvido com **HTML, CSS e JavaScript puro**, simulando
 - JavaScript (Vanilla JS)
 
 ## 📸 Demonstração
-![Home](prints/home.png)
-![Carrinho](prints/carrinho.png)
-![Pagamento](prints/pagamento.png)
+
+### 🏠 Página Inicial
+<p align="center">
+  <img src="prints/home.png" width="800">
+</p>
+
+### 🛒 Carrinho de Compras
+<p align="center">
+  <img src="prints/carrinho.png" width="800">
+</p>
+
+### 💳 Simulação de Pagamento
+<p align="center">
+  <img src="prints/pagamento.png" width="800">
+</p>
 
 ## 📌 Observação
 Este projeto é **apenas para fins de estudo e portfólio**.  
 Não realiza pagamentos reais.
 
 ## 👤 Autor
-André Waldige
-
+**André Waldige**
