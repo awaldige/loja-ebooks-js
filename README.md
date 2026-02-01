@@ -39,21 +39,10 @@ O projeto demonstra funcionalidades comuns de e-commerce, como catálogo, carrin
 ---
 
 ## 🖼️ Demonstração
-
-### 🏠 Página Inicial
-<p align="center">
-  <img src="prints/home.png" width="800">
-</p>
-
-### 🛒 Carrinho de Compras
-<p align="center">
-  <img src="prints/carrinho.png" width="800">
-</p>
-
-### 💳 Simulação de Pagamento
-<p align="center">
-  <img src="prints/pagamento.png" width="800">
-</p>
+![IMG_1282](https://github.com/user-attachments/assets/609bc39f-34ae-42cb-9dec-6f905af500d1)
+![IMG_1283](https://github.com/user-attachments/assets/11d3fa35-72d7-4ba3-9811-1a98b35daf45)
+![IMG_1284](https://github.com/user-attachments/assets/aa41b96e-8c99-4db6-a4b6-8a067572d048)
+![IMG_1285](https://github.com/user-attachments/assets/84d7210b-f470-4480-bf75-6d4e9eac6d43)
 
 ---
 
