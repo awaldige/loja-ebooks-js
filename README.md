@@ -39,10 +39,11 @@ O projeto demonstra funcionalidades comuns de e-commerce, como catálogo, carrin
 ---
 
 ## 🖼️ Demonstração
-![IMG_1282](https://github.com/user-attachments/assets/609bc39f-34ae-42cb-9dec-6f905af500d1)
-![IMG_1283](https://github.com/user-attachments/assets/11d3fa35-72d7-4ba3-9811-1a98b35daf45)
-![IMG_1284](https://github.com/user-attachments/assets/aa41b96e-8c99-4db6-a4b6-8a067572d048)
-![IMG_1285](https://github.com/user-attachments/assets/84d7210b-f470-4480-bf75-6d4e9eac6d43)
+
+![Captura de tela 2026-04-02 143621](https://github.com/user-attachments/assets/f24ac46f-b35a-4f8e-bd92-62e27bf26bc5)
+![Captura de tela 2026-04-02 143824](https://github.com/user-attachments/assets/5879368d-7fa8-42d2-9d1a-e1427c7a9529)
+![Captura de tela 2026-04-02 143755](https://github.com/user-attachments/assets/7f4e4ec8-ff06-4003-9cbe-8f1bdcad863b)
+![Captura de tela 2026-04-02 143713](https://github.com/user-attachments/assets/77e78df2-0af6-4800-ad78-78fc202e20dd)
 
 ---
 
