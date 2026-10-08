@@ -1,9 +1,10 @@
-# 📚 Loja de eBooks • Projeto Demonstrativo
+# 📚 Loja de eBooks — Projeto Demonstrativo
 
-Aplicação front-end que simula uma **loja online de eBooks**, desenvolvida com **HTML, CSS e JavaScript puro**, focada em experiência do usuário, navegação fluida e simulação completa de fluxo de compra.
+Aplicação front-end que simula uma loja online de eBooks, desenvolvida com HTML5, CSS3 e JavaScript Vanilla.
 
-O projeto demonstra funcionalidades comuns de e-commerce, como catálogo, carrinho, checkout e feedback visual ao usuário, sem depender de backend.
+O projeto demonstra um fluxo de compra simulado, incluindo catálogo de produtos, paginação, carrinho de compras, checkout, feedback visual e persistência de dados utilizando LocalStorage.
 
+⚠️ Este é um projeto demonstrativo. Nenhum pagamento real é processado.
 ---
 
 ## 🚀 Demo do Projeto
@@ -13,19 +14,38 @@ O projeto demonstra funcionalidades comuns de e-commerce, como catálogo, carrin
 
 ---
 
-## ✨ Funcionalidades
+# ✨ Funcionalidades
 
-- ✔ Catálogo dinâmico de eBooks
-- ✔ Paginação de produtos
-- ✔ Carrinho de compras com controle de quantidade
-- ✔ Persistência do carrinho via LocalStorage
-- ✔ Modal de checkout
-- ✔ Simulação de pagamento (Pix e Mercado Pago)
-- ✔ Liberação de download após compra
-- ✔ Toast de feedback ao usuário
-- ✔ Loading animado durante compra
-- ✔ Interface moderna e responsiva
-- ✔ Experiência semelhante a lojas virtuais reais
+## 📚 Catálogo
+
+- Catálogo dinâmico de eBooks
+- Paginação de produtos
+- Exibição de informações dos livros
+- Interface responsiva
+  
+## 🛒 Carrinho
+
+- Adição de produtos
+- Controle de quantidade
+- Remoção de itens
+- Cálculo dos valores
+- Persistência do carrinho utilizando LocalStorage
+  
+## 💳 Checkout
+
+- Modal de finalização da compra
+- Fluxo de compra simulado
+- Simulação de diferentes formas de pagamento
+- Feedback visual durante o processo
+- Liberação simulada do download após a compra
+  
+## 🎨 Experiência do Usuário
+
+- Interface moderna
+- Layout responsivo
+- Toasts de feedback
+- Animações e estados de carregamento
+- Navegação simplificada
 
 ---
 
@@ -47,62 +67,99 @@ O projeto demonstra funcionalidades comuns de e-commerce, como catálogo, carrin
 
 ---
 
-## 📂 Estrutura do Projeto
+📂 Estrutura do Projeto
 
-ebook-store/
+loja-ebooks-js/
+│
+├── ebooks/
+│   └── arquivos e conteúdos dos eBooks
+│
+├── imagens/
+│   └── imagens utilizadas na aplicação
+│
+├── prints/
+│   └── capturas de tela do projeto
 │
 ├── index.html
-├── style.css
 ├── script.js
-├── prints/
+├── style.css
 └── README.md
-
-
 ---
 
-## 📌 Como Executar
+## 🚀 Como Executar Localmente
 
-Clone o repositório:
+1. Clone o repositório
+git clone https://github.com/awaldige/loja-ebooks-js.git
 
-```bash
-git clone https://github.com/awaldige/loja-ebooks.git
-Abra o arquivo index.html em qualquer navegador.
+3. Acesse a pasta
+cd loja-ebooks-js
 
-Não é necessário backend ou servidor.
+4. Execute o projeto
 
-🧠 Destaques Técnicos
-Carrinho mantido entre sessões via LocalStorage
+Abra o arquivo:
 
-Fluxo completo de compra simulado
+index.html
 
-Interface focada em UX
+diretamente no navegador.
 
-Componentes reutilizáveis
+Também é possível utilizar a extensão Live Server no VS Code durante o desenvolvimento.
 
-Feedback visual constante ao usuário
+Não é necessário instalar dependências ou configurar um backend para executar a versão atual.
 
-Código organizado e fácil de evoluir
+## 🧠 Destaques Técnicos
 
-🔮 Melhorias Futuras
-Integração com API de pagamentos real
+- Desenvolvimento frontend sem frameworks
+- Manipulação dinâmica do DOM
+- Catálogo renderizado dinamicamente
+- Sistema de paginação
+- Carrinho de compras no frontend
+- Persistência de dados com LocalStorage
+- Fluxo de checkout simulado
+- Feedback visual para ações do usuário
+- Interface responsiva
+- Organização do código para facilitar futuras evoluções
 
-Sistema de usuários
+## 🔮 Possíveis Melhorias Futuras
 
-Área de downloads do cliente
-
-Backend para controle de pedidos
-
-Painel administrativo
-
-Sistema de cupons e descontos
+- Backend para gerenciamento de produtos
+- Banco de dados
+- Sistema de usuários
+- Área do cliente
+- Histórico de pedidos
+- Área de downloads
+- Painel administrativo
+- Sistema de cupons e descontos
+- Integração com serviços de pagamento reais em uma futura versão de produçãos
 
 ⚠️ Observação
 Este projeto é apenas demonstrativo, criado para estudo e portfólio.
 
 Nenhum pagamento real é processado.
 
-👨‍💻 Autor
-Desenvolvido por André Waldige
-🔗 GitHub: https://github.com/awaldige
+## 🎯 Objetivo do Projeto
 
-Projeto voltado para estudo e portfólio profissional.
+A Loja de eBooks foi desenvolvida como projeto de portfólio para demonstrar conhecimentos em:
+
+- Desenvolvimento frontend
+- HTML5 e CSS3
+- JavaScript Vanilla
+- Manipulação do DOM
+- Persistência de dados no navegador
+- Desenvolvimento de interfaces responsivas
+- Construção de fluxos de compra simulados
+- Experiência do usuário (UX)
+
+O projeto também serve como base para uma futura evolução para uma aplicação Full Stack.
+
+## 👨‍💻 Autor
+
+André Waldige
+
+Desenvolvedor Full Stack — AW TECHNOLOGY
+
+## 🔗 GitHub:
+https://github.com/awaldige
+
+## 📄 Licença
+
+Projeto desenvolvido para estudo, portfólio profissional e demonstração de habilidades em desenvolvimento web.
